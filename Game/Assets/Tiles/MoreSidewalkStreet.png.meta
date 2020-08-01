@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 7b6c15bced7642d47a908b093cb2de4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6722972729342043686
+    second: MoreSidewalkStreet_0
+  - first:
+      213: 8875093118804709220
+    second: MoreSidewalkStreet_1
+  - first:
+      213: 6992708937351245317
+    second: MoreSidewalkStreet_2
+  - first:
+      213: 3716504050618719435
+    second: MoreSidewalkStreet_3
+  - first:
+      213: 6455541809392698682
+    second: MoreSidewalkStreet_4
+  - first:
+      213: 8841260086720188617
+    second: MoreSidewalkStreet_5
+  - first:
+      213: 291719895365165812
+    second: MoreSidewalkStreet_6
+  - first:
+      213: -9203453230334806058
+    second: MoreSidewalkStreet_7
+  - first:
+      213: -934834173900954493
+    second: MoreSidewalkStreet_8
+  - first:
+      213: -5415025915878694509
+    second: MoreSidewalkStreet_9
+  - first:
+      213: 10863909823134249
+    second: MoreSidewalkStreet_10
+  - first:
+      213: 4819429237173220187
+    second: MoreSidewalkStreet_11
+  - first:
+      213: 5727383663938044433
+    second: MoreSidewalkStreet_12
+  - first:
+      213: 3644042634569298405
+    second: MoreSidewalkStreet_13
+  - first:
+      213: -4551565776019670187
+    second: MoreSidewalkStreet_14
+  - first:
+      213: 8045175795450630067
+    second: MoreSidewalkStreet_15
+  - first:
+      213: 670088912354864281
+    second: MoreSidewalkStreet_16
+  - first:
+      213: -1426517515876520946
+    second: MoreSidewalkStreet_17
+  - first:
+      213: 1863547646031419083
+    second: MoreSidewalkStreet_18
+  - first:
+      213: 2539396696945008190
+    second: MoreSidewalkStreet_19
+  - first:
+      213: -4688462727202317889
+    second: MoreSidewalkStreet_20
+  - first:
+      213: 6035089194712380556
+    second: MoreSidewalkStreet_21
+  - first:
+      213: 1734158799891240694
+    second: MoreSidewalkStreet_22
+  - first:
+      213: -8177655368663198225
+    second: MoreSidewalkStreet_23
+  - first:
+      213: -121814006388595696
+    second: MoreSidewalkStreet_24
+  - first:
+      213: 7027157525762231688
+    second: MoreSidewalkStreet_25
+  - first:
+      213: -1982314479158567213
+    second: MoreSidewalkStreet_26
+  - first:
+      213: 4416512559587158959
+    second: MoreSidewalkStreet_27
+  - first:
+      213: 1743888888028798707
+    second: MoreSidewalkStreet_28
+  - first:
+      213: -7717052567560106984
+    second: MoreSidewalkStreet_29
+  - first:
+      213: -3007541189419636669
+    second: MoreSidewalkStreet_30
+  - first:
+      213: -2651073047014565047
+    second: MoreSidewalkStreet_31
+  - first:
+      213: -5257528509398533556
+    second: MoreSidewalkStreet_32
+  - first:
+      213: -6522932917197976678
+    second: MoreSidewalkStreet_33
+  - first:
+      213: 2716190435808148305
+    second: MoreSidewalkStreet_34
+  - first:
+      213: 4908132914630010431
+    second: MoreSidewalkStreet_35
+  - first:
+      213: 6668106644190246220
+    second: MoreSidewalkStreet_36
+  - first:
+      213: 1776339936143232475
+    second: MoreSidewalkStreet_37
+  - first:
+      213: -7237820311068545128
+    second: MoreSidewalkStreet_38
+  - first:
+      213: -6876557049611491814
+    second: MoreSidewalkStreet_39
+  - first:
+      213: 4735948182179603393
+    second: MoreSidewalkStreet_40
+  - first:
+      213: 3841634260014878320
+    second: MoreSidewalkStreet_41
+  - first:
+      213: 2975799763075466617
+    second: MoreSidewalkStreet_42
+  - first:
+      213: -286103421612652637
+    second: MoreSidewalkStreet_43
+  - first:
+      213: 2162291727661978554
+    second: MoreSidewalkStreet_44
+  - first:
+      213: -2420147152630231486
+    second: MoreSidewalkStreet_45
+  - first:
+      213: 524927445458029182
+    second: MoreSidewalkStreet_46
+  - first:
+      213: 9100001329292850801
+    second: MoreSidewalkStreet_47
+  - first:
+      213: -6385112570440444609
+    second: MoreSidewalkStreet_8
+  - first:
+      213: 5650810158380880846
+    second: MoreSidewalkStreet_9
+  - first:
+      213: 1397286261848904405
+    second: MoreSidewalkStreet_0
+  - first:
+      213: 5808016540480262524
+    second: MoreSidewalkStreet_1
+  - first:
+      213: -602458472367070374
+    second: MoreSidewalkStreet_2
+  - first:
+      213: 2276777376766788964
+    second: MoreSidewalkStreet_3
+  - first:
+      213: 8016729226030428301
+    second: MoreSidewalkStreet_4
+  - first:
+      213: 3073313170019821204
+    second: MoreSidewalkStreet_5
+  - first:
+      213: -9024552927997057580
+    second: MoreSidewalkStreet_6
+  - first:
+      213: -2025763098209776123
+    second: MoreSidewalkStreet_7
+  - first:
+      213: -4956974305631007048
+    second: MoreSidewalkStreet_10
+  - first:
+      213: 3555445686935199013
+    second: MoreSidewalkStreet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29907b378246310800000000000000
+      internalID: 1397286261848904405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715be875483a9050800000000000000
+      internalID: 5808016540480262524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e2aa1633a3a7f0800000000000000
+      internalID: -602458472367070374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46584d616fcb89f10800000000000000
+      internalID: 2276777376766788964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803902b1c4214f60800000000000000
+      internalID: 8016729226030428301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496af868b0a96aa20800000000000000
+      internalID: 3073313170019821204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d526061de852c280800000000000000
+      internalID: -9024552927997057580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8c14f13b03e3e0800000000000000
+      internalID: -2025763098209776123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35140c62f58367a0800000000000000
+      internalID: -6385112570440444609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3167756e5bb6e40800000000000000
+      internalID: 5650810158380880846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0028d12a453bb0800000000000000
+      internalID: -4956974305631007048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreSidewalkStreet_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d97f3c30b775130800000000000000
+      internalID: 3555445686935199013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 07df1bc9923de1445bff9c4b23b35808
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1053808249375992239
+    second: BackgroundHouse2-Sheet_0
+  - first:
+      213: 801415934838505558
+    second: BackgroundHouse2-Sheet_1
+  - first:
+      213: 4029798827849582144
+    second: BackgroundHouse2-Sheet_2
+  - first:
+      213: -2629240868064747191
+    second: BackgroundHouse2-Sheet_3
+  - first:
+      213: -6268868293653599187
+    second: BackgroundHouse2-Sheet_4
+  - first:
+      213: -7270770081938827225
+    second: BackgroundHouse2-Sheet_5
+  - first:
+      213: -3373592998926906575
+    second: BackgroundHouse2-Sheet_6
+  - first:
+      213: -6890215516594442795
+    second: BackgroundHouse2-Sheet_7
+  - first:
+      213: 6655447799857563962
+    second: BackgroundHouse2-Sheet_8
+  - first:
+      213: -2507736939024414746
+    second: BackgroundHouse2-Sheet_0
+  - first:
+      213: -4031595565387731017
+    second: BackgroundHouse2-Sheet_1
+  - first:
+      213: 2072324626616790486
+    second: BackgroundHouse2-Sheet_2
+  - first:
+      213: 2242491855579851337
+    second: BackgroundHouse2-Sheet_3
+  - first:
+      213: 5137945944006090814
+    second: BackgroundHouse2-Sheet_4
+  - first:
+      213: -5168834811241434733
+    second: BackgroundHouse2-Sheet_5
+  - first:
+      213: 4554768810832145148
+    second: BackgroundHouse2-Sheet_6
+  - first:
+      213: -144531777066128558
+    second: BackgroundHouse2-Sheet_7
+  - first:
+      213: -8959097160964816291
+    second: BackgroundHouse2-Sheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 588
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7035f5a8ab23dd0800000000000000
+      internalID: -2507736939024414746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 588
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf260f8135ec08c0800000000000000
+      internalID: -4031595565387731017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 588
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda9cca44062cc10800000000000000
+      internalID: 2072324626616790486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 0
+        width: 594
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2b8f167eee1f10800000000000000
+      internalID: 2242491855579851337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 0
+        width: 597
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3064a33d96ad4740800000000000000
+      internalID: 5137945944006090814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 0
+        width: 594
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f745ff1c9448b0800000000000000
+      internalID: -5168834811241434733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 0
+        width: 598
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaadabe91ac53f30800000000000000
+      internalID: 4554768810832145148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 0
+        width: 596
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ba7315d158efdf0800000000000000
+      internalID: -144531777066128558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundHouse2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 0
+        width: 597
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d524b747994eaa380800000000000000
+      internalID: -8959097160964816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

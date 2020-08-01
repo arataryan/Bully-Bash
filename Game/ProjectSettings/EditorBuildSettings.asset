@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cf42178f7eb4f1a41b75098943d79e3b
+  - enabled: 1
+    path: Assets/Scenes/Blondie'sRoom Scene 1.unity
+    guid: 59c4eb5ccb92e764cb6081c363b58758
+  - enabled: 1
+    path: Assets/Scenes/InsideHome CutScene 1.unity
+    guid: 99abeec8394bd214fb750a82884e5e90
+  - enabled: 1
+    path: Assets/Scenes/InsideHome Scene 1.unity
+    guid: f7466b7ec3fa64d458c5b159a5cad422
+  - enabled: 1
+    path: Assets/Scenes/GoingToSchool CutScene.unity
+    guid: 23c5d50068e421f448ab98288b066d75
+  - enabled: 1
+    path: Assets/Scenes/BullyClassroom Cutscene.unity
+    guid: 2258b784ad2566c458f4f0c15e1171c9
+  - enabled: 1
+    path: Assets/Scenes/BullyClassroom Scene1.unity
+    guid: 95a479eb473d6c4408d9b433d124a567
+  - enabled: 1
+    path: Assets/Scenes/GoingToHouse CutScene.unity
+    guid: e12d8ebfea53b7b4c9aa9fe4c9ca765e
+  - enabled: 1
+    path: Assets/Scenes/InsideHome CutScene 2.unity
+    guid: 9acb93eb409610e4b93c86f25f320dc4
+  - enabled: 1
+    path: Assets/Scenes/InsideHome Scene 2.unity
+    guid: 31b09c18602e4ed4282200090843dd8e
+  - enabled: 1
+    path: Assets/Scenes/Blondie'sRoom CutScene Lifting.unity
+    guid: 08b5cb06c7deb054bb5dac916aa7b7bf
+  - enabled: 1
+    path: Assets/Scenes/Dream Cutscene.unity
+    guid: 01df2ce0d8cbbee43b578d3d3a8075f2
+  - enabled: 1
+    path: Assets/Scenes/Blondie'sRoom Scene 2.unity
+    guid: f3cd79c61795fcf4382e64e2aec11161
+  - enabled: 1
+    path: Assets/Scenes/InsideHome CutScene 3.unity
+    guid: 32e496095a91fa844a1fe1530625c4a2
+  - enabled: 1
+    path: Assets/Scenes/InsideHome Scene 3.unity
+    guid: afdc4ec920f50154694ff982859a6b92
+  - enabled: 1
+    path: Assets/Scenes/House CutScene.unity
+    guid: fe0fc52582345a14d9068ac023c58c15
+  - enabled: 1
+    path: Assets/Scenes/House Scene.unity
+    guid: d8115bd941294a74bb4efc1776ac64f4
+  - enabled: 1
+    path: Assets/Scenes/Sample CutScene.unity
+    guid: 6df313b2148b4e44da2ab09686de3fbc
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stand CutScene.unity
+    guid: 40bc16d82a84426418c20f08e55ec86c
+  - enabled: 1
+    path: Assets/Scenes/Stand Scene.unity
+    guid: e66c37c8ab4693b42a24862585fe60de
+  - enabled: 1
+    path: Assets/Scenes/School CutScene.unity
+    guid: 4da75d5e249d953488237e7cb3dbae22
+  - enabled: 1
+    path: Assets/Scenes/School Scene.unity
+    guid: 20d39e505116d2641b2c9a00457f7840
+  - enabled: 1
+    path: Assets/Scenes/Hallway CutScene.unity
+    guid: 490f8f9b2a466f141ad7ac636e9d0e6d
+  - enabled: 1
+    path: Assets/Scenes/Hallway Scene.unity
+    guid: 0573966c0791e464aa09a542e03cefe7
+  - enabled: 1
+    path: Assets/Scenes/Cafeteria CutScene.unity
+    guid: 3f13ed58c81b09d47a53327c390f5ad3
+  - enabled: 1
+    path: Assets/Scenes/Cafeteria Scene.unity
+    guid: 682ad44372c35534d9684337606c576d
+  - enabled: 1
+    path: Assets/Scenes/Gymnasium CutScene.unity
+    guid: 7a3aaf1978d543f40af2aaddcf3f204a
+  - enabled: 1
+    path: Assets/Scenes/Gymnasium Scene.unity
+    guid: a529715134d2da84a92a1daee2232768
+  - enabled: 1
+    path: Assets/Scenes/Classroom CutScene.unity
+    guid: 76fff3f07f6b4e24991320db0ac5fdaf
+  - enabled: 1
+    path: Assets/Scenes/Classroom Scene.unity
+    guid: 6af7885a3f3f51c4291f70831a224b21
+  - enabled: 1
+    path: Assets/Scenes/School CutScene 2.unity
+    guid: f4415ec4d1639c2438be93318471d5ca
+  - enabled: 1
+    path: Assets/Scenes/School Scene 2.unity
+    guid: 9b6651bf9cf86bc42a02f36e1e2d7fbe
+  - enabled: 1
+    path: Assets/Scenes/StreetToPark CutScene.unity
+    guid: ff191086b9e1bf2429cdbc4185be1df2
+  - enabled: 1
+    path: Assets/Scenes/StreetToPark Scene.unity
+    guid: ba181f53039e10f48b22b72090195ea5
+  - enabled: 1
+    path: Assets/Scenes/Park CutScene.unity
+    guid: 29d9ee01430f67046a79a6a20e945021
+  - enabled: 1
+    path: Assets/Scenes/Park Scene.unity
+    guid: ec8ee6b41b553f646ac8ddb84ed7fee7
+  - enabled: 1
+    path: Assets/Scenes/2nd Park CutScene.unity
+    guid: a9bcffa7cf33f544985de6ad02a50767
+  - enabled: 1
+    path: Assets/Scenes/2nd Park Scene.unity
+    guid: c24c6da080bf7e140add91ead4de10e6
+  - enabled: 1
+    path: Assets/Scenes/2nd Park CutScene 2.unity
+    guid: b3351b62c8897d848b66fefaaef5bf90
+  - enabled: 1
+    path: Assets/Scenes/FinalWalkHome CutScene.unity
+    guid: 8d42ff0a49a72d747924f904d206a40e
+  - enabled: 1
+    path: Assets/Scenes/InsideHome CutScene 4.unity
+    guid: c4ce78ac38245bb4ca45e9d602de549c
+  - enabled: 1
+    path: Assets/Scenes/InsideHome Scene 4.unity
+    guid: 141135148c04ec0438f773a71d5c944a
+  - enabled: 1
+    path: Assets/Scenes/Blondie'sRoom CutScene Lifting 2.unity
+    guid: f4f8c5a795b10ee459335ab59439777e
+  m_configObjects: {}

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4321670294256651580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4321670294256651578}
+  - component: {fileID: 4321670294256651579}
+  - component: {fileID: 4321670294256651577}
+  m_Layer: 0
+  m_Name: Dialouge Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4321670294256651578
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4321670294256651580}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -39.556324, y: -29.772802, z: -228.0371}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4321670294256651579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4321670294256651580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f33256b0723026428e8eda062a2877a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textDisplay: {fileID: 0}
+  sentences:
+  - Hey Blondie! Where do you think you're going?
+  - ...
+  - The name's Thad. Nice to meet you, punk.
+  - 'I could''ve sworn the boss told you not to come to school today. '
+  - What, you got a bad memory or something?
+  - Eh, you know what? I'm in a pretty good mood.
+  - How about I make you a deal.
+  - You go back inside that little house of yours, and I'll forget this ever happened.
+  - How about it?
+  - ...
+  - Fine Blondie. Be that way.
+  - You asked for it man. Can't say I didn't warn you.
+  - ALRIGHT BOYS, GET 'EM!
+  - MOVE --- WASD PUNCH --- SPACEBAR
+  - 
+  typingSpeed: 0.035
+  MC: {fileID: 0}
+  Enemy: {fileID: 0}
+  continueButton: {fileID: 0}
+  textDisplayAnim: {fileID: 4321670294256651577}
+  sceneIndex: 1
+  currentHealth: 50
+  maxHealth: 50
+--- !u!95 &4321670294256651577
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4321670294256651580}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c66e71c6a46e9f048bc956ece1b4c48a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

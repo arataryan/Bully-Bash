@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: a66471d19f30ff5478ccf9c24f8c42e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3944610971744774603
+    second: HDwalk-right_0
+  - first:
+      213: 2678851984812996144
+    second: HDwalk-right_1
+  - first:
+      213: 6698271817067445761
+    second: HDwalk-right_2
+  - first:
+      213: -3140148937563518947
+    second: HDwalk-right_3
+  - first:
+      213: 1317087848454616870
+    second: HDwalk-right_4
+  - first:
+      213: 7559907838487812433
+    second: HDwalk-right_5
+  - first:
+      213: 1240636688980252412
+    second: HDwalk-right_0
+  - first:
+      213: -2760588125191669620
+    second: HDwalk-right_1
+  - first:
+      213: 7370472690759128963
+    second: HDwalk-right_2
+  - first:
+      213: 1613831980805401213
+    second: HDwalk-right_3
+  - first:
+      213: 339433255318872810
+    second: HDwalk-right_4
+  - first:
+      213: -3726191584551369398
+    second: HDwalk-right_5
+  - first:
+      213: 8640911071060613627
+    second: HDwalk-right_6
+  - first:
+      213: 3952063473395627449
+    second: HDwalk-right_7
+  - first:
+      213: -1477779718277071178
+    second: HDwalk-right_8
+  - first:
+      213: 5977773922168201428
+    second: HDwalk-right_9
+  - first:
+      213: -763307958602933866
+    second: HDwalk-right_10
+  - first:
+      213: -2463927204134357918
+    second: HDwalk-right_11
+  - first:
+      213: -3188653050132987781
+    second: HDwalk-right_12
+  - first:
+      213: 1824321187560968301
+    second: HDwalk-right_13
+  - first:
+      213: -1394907482483707053
+    second: HDwalk-right_14
+  - first:
+      213: -7104714781706488576
+    second: HDwalk-right_15
+  - first:
+      213: 6800719209413846934
+    second: HDwalk-right_16
+  - first:
+      213: 7449539623968016745
+    second: HDwalk-right_17
+  - first:
+      213: 2504760613327132784
+    second: HDwalk-right_18
+  - first:
+      213: -1105079059953300883
+    second: HDwalk-right_19
+  - first:
+      213: -1203644257818886697
+    second: HDwalk-right_20
+  - first:
+      213: 7176259547271464808
+    second: HDwalk-right_21
+  - first:
+      213: -7340682777720271347
+    second: HDwalk-right_22
+  - first:
+      213: 5248889217325057492
+    second: HDwalk-right_23
+  - first:
+      213: -5059261588867885581
+    second: HDwalk-right_24
+  - first:
+      213: -4903089351893026161
+    second: HDwalk-right_25
+  - first:
+      213: 131339071947933114
+    second: HDwalk-right_26
+  - first:
+      213: 8066994808379179632
+    second: HDwalk-right_27
+  - first:
+      213: 3379803194031444635
+    second: HDwalk-right_28
+  - first:
+      213: -9038011894898730942
+    second: HDwalk-right_29
+  - first:
+      213: 3199423150167124949
+    second: HDwalk-right_30
+  - first:
+      213: -8724910367306883248
+    second: HDwalk-right_31
+  - first:
+      213: 2438683314998379788
+    second: HDwalk-right_32
+  - first:
+      213: -590429421905741572
+    second: HDwalk-right_33
+  - first:
+      213: 295341544412546910
+    second: HDwalk-right_34
+  - first:
+      213: -7575488732511688858
+    second: HDwalk-right_35
+  - first:
+      213: -2913364528548690818
+    second: HDwalk-right_36
+  - first:
+      213: 2553128798163115172
+    second: HDwalk-right_37
+  - first:
+      213: -5474146647317251602
+    second: HDwalk-right_38
+  - first:
+      213: -2927332227014981263
+    second: HDwalk-right_39
+  - first:
+      213: -3477720241032232163
+    second: HDwalk-right_40
+  - first:
+      213: 5924809688299167431
+    second: HDwalk-right_41
+  - first:
+      213: -6044231001760346509
+    second: HDwalk-right_42
+  - first:
+      213: 8137044330094400408
+    second: HDwalk-right_43
+  - first:
+      213: -9142151315837801824
+    second: HDwalk-right_44
+  - first:
+      213: -7163424315576359068
+    second: HDwalk-right_45
+  - first:
+      213: 713359554165319551
+    second: HDwalk-right_46
+  - first:
+      213: 5267219149827401820
+    second: HDwalk-right_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HDwalk-right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61cf5de70a73110800000000000000
+      internalID: 1240636688980252412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDwalk-right_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f9c2f9bb60b9d0800000000000000
+      internalID: -2760588125191669620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDwalk-right_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875a6f9cdd294660800000000000000
+      internalID: 7370472690759128963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDwalk-right_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2217d2ab756610800000000000000
+      internalID: 1613831980805401213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDwalk-right_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26c305fb8e5b400800000000000000
+      internalID: 339433255318872810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDwalk-right_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4504cdfe78e94cc0800000000000000
+      internalID: -3726191584551369398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

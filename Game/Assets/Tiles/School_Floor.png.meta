@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 2a4ad9e3a81e7ca4d99385edfc711819
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6080609580638799965
+    second: School_Floor_0
+  - first:
+      213: -9104684921715268611
+    second: School_Floor_1
+  - first:
+      213: 193303219950020798
+    second: School_Floor_2
+  - first:
+      213: 4008515875880103532
+    second: School_Floor_3
+  - first:
+      213: 7120502683884161342
+    second: School_Floor_4
+  - first:
+      213: -4274598166107217630
+    second: School_Floor_5
+  - first:
+      213: 8938404939453098644
+    second: School_Floor_6
+  - first:
+      213: 2740003860653391644
+    second: School_Floor_7
+  - first:
+      213: -7760669561313176096
+    second: School_Floor_8
+  - first:
+      213: 8476263883957377356
+    second: School_Floor_9
+  - first:
+      213: 5228863826958077498
+    second: School_Floor_10
+  - first:
+      213: 6730888839854585278
+    second: School_Floor_11
+  - first:
+      213: -1660304169289572642
+    second: School_Floor_12
+  - first:
+      213: -7017071564869066188
+    second: School_Floor_13
+  - first:
+      213: 6065119900145374391
+    second: School_Floor_14
+  - first:
+      213: 2438853294699006495
+    second: School_Floor_15
+  - first:
+      213: 5117800348770494910
+    second: School_Floor_16
+  - first:
+      213: 8207926573227435466
+    second: School_Floor_17
+  - first:
+      213: 509572741782567172
+    second: School_Floor_18
+  - first:
+      213: 2950670260685853971
+    second: School_Floor_19
+  - first:
+      213: 4548077243276975849
+    second: School_Floor_20
+  - first:
+      213: -3373858025083166829
+    second: School_Floor_21
+  - first:
+      213: 6537306631182432965
+    second: School_Floor_22
+  - first:
+      213: -6188683010230918077
+    second: School_Floor_23
+  - first:
+      213: -3367154281049943453
+    second: School_Floor_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: School_Floor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ff288dc55d9ba0800000000000000
+      internalID: -6080609580638799965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_Floor_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36e496d49a5a180800000000000000
+      internalID: -9104684921715268611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_Floor_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb86f0f1140cea200800000000000000
+      internalID: 193303219950020798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_Floor_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee85a73fb11a730800000000000000
+      internalID: 4008515875880103532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

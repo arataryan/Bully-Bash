@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: d0dfb2361c404984cb5d1111ef5193ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1782438217697237961
+    second: Boy02-Sheet_0
+  - first:
+      213: 2677384154369376435
+    second: Boy02-Sheet_1
+  - first:
+      213: -8005484571804123789
+    second: Boy02-Sheet_2
+  - first:
+      213: -1345794064497091212
+    second: Boy02-Sheet_3
+  - first:
+      213: -2125196397784241710
+    second: Boy02-Sheet_4
+  - first:
+      213: 5290370084963128564
+    second: Boy02-Sheet_5
+  - first:
+      213: 2848237669703629830
+    second: Boy02-Sheet_6
+  - first:
+      213: 7584280995976858608
+    second: Boy02-Sheet_7
+  - first:
+      213: -5790606281189938695
+    second: Boy02-Sheet_8
+  - first:
+      213: 8044581561287706371
+    second: Boy02-Sheet_9
+  - first:
+      213: 8314071526300956878
+    second: Boy02-Sheet_10
+  - first:
+      213: 2754044312838498021
+    second: Boy02-Sheet_11
+  - first:
+      213: -6919158534024365885
+    second: Boy02-Sheet_12
+  - first:
+      213: 6678861768862785575
+    second: Boy02-Sheet_13
+  - first:
+      213: -2813250013559270673
+    second: Boy02-Sheet_14
+  - first:
+      213: 8404857799105227799
+    second: Boy02-Sheet_15
+  - first:
+      213: 7501697423173290099
+    second: Boy02-Sheet_16
+  - first:
+      213: -4374554829948372225
+    second: Boy02-Sheet_17
+  - first:
+      213: -8337694515855431595
+    second: Boy02-Sheet_18
+  - first:
+      213: 1055095276256139354
+    second: Boy02-Sheet_19
+  - first:
+      213: 528071836317329439
+    second: Boy02-Sheet_20
+  - first:
+      213: 4960448672079870274
+    second: Boy02-Sheet_21
+  - first:
+      213: -8092382152461110868
+    second: Boy02-Sheet_22
+  - first:
+      213: -3535117412151384024
+    second: Boy02-Sheet_23
+  - first:
+      213: -5951979227765922468
+    second: Boy02-Sheet_24
+  - first:
+      213: 1821607617430048422
+    second: Boy02-Sheet_25
+  - first:
+      213: 3701712625370639040
+    second: Boy02-Sheet_26
+  - first:
+      213: 7401884093123041413
+    second: Boy02-Sheet_27
+  - first:
+      213: -4241791725188387656
+    second: Boy02-Sheet_28
+  - first:
+      213: 629590024478214105
+    second: Boy02-Sheet_29
+  - first:
+      213: 3034297451815345650
+    second: Boy02-Sheet_30
+  - first:
+      213: -6186555653711127889
+    second: Boy02-Sheet_31
+  - first:
+      213: 8076328144599909114
+    second: Boy02-Sheet_32
+  - first:
+      213: -7318276197204559332
+    second: Boy02-Sheet_33
+  - first:
+      213: -7920117408344258875
+    second: Boy02-Sheet_34
+  - first:
+      213: 2584194974638765360
+    second: Boy02-Sheet_35
+  - first:
+      213: 7176840462934688484
+    second: Boy02-Sheet_36
+  - first:
+      213: 7663496725252496755
+    second: Boy02-Sheet_37
+  - first:
+      213: 2384540557626364594
+    second: Boy02-Sheet_38
+  - first:
+      213: -530394155897925621
+    second: Boy02-Sheet_39
+  - first:
+      213: -1212957824770568103
+    second: Boy02-Sheet_40
+  - first:
+      213: -6615254317275597053
+    second: Boy02-Sheet_41
+  - first:
+      213: -4764001231436716678
+    second: Boy02-Sheet_42
+  - first:
+      213: -2986221874177567732
+    second: Boy02-Sheet_43
+  - first:
+      213: 45980629031475706
+    second: Boy02-Sheet_44
+  - first:
+      213: 2397352975401543917
+    second: Boy02-Sheet_45
+  - first:
+      213: -9154219785833087229
+    second: Boy02-Sheet_46
+  - first:
+      213: 4852195136583425435
+    second: Boy02-Sheet_47
+  - first:
+      213: 2952309462037836768
+    second: Boy02-Sheet_48
+  - first:
+      213: -4425716096458773712
+    second: Boy02-Sheet_49
+  - first:
+      213: 6841269439015770223
+    second: Boy02-Sheet_50
+  - first:
+      213: -825213318112850918
+    second: Boy02-Sheet_51
+  - first:
+      213: -112105926137948044
+    second: Boy02-Sheet_52
+  - first:
+      213: -7205097357797682210
+    second: Boy02-Sheet_53
+  - first:
+      213: 5134677470745894392
+    second: Boy02-Sheet_54
+  - first:
+      213: 3177849769346410936
+    second: Boy02-Sheet_55
+  - first:
+      213: 6184792427434222285
+    second: Boy02-Sheet_56
+  - first:
+      213: 4685643030992667849
+    second: Boy02-Sheet_57
+  - first:
+      213: 7667578217721923424
+    second: Boy02-Sheet_58
+  - first:
+      213: -3683456850423358705
+    second: Boy02-Sheet_59
+  - first:
+      213: 2962816923224903879
+    second: Boy02-Sheet_60
+  - first:
+      213: 2576053482247988937
+    second: Boy02-Sheet_61
+  - first:
+      213: -3328753037218377626
+    second: Boy02-Sheet_62
+  - first:
+      213: -1313520804509720861
+    second: Boy02-Sheet_63
+  - first:
+      213: -7817251182143522360
+    second: Boy02-Sheet_64
+  - first:
+      213: -7264229156939711459
+    second: Boy02-Sheet_65
+  - first:
+      213: -9161520183538330012
+    second: Boy02-Sheet_66
+  - first:
+      213: -6160826645891794827
+    second: Boy02-Sheet_67
+  - first:
+      213: -5049516011005282751
+    second: Boy02-Sheet_68
+  - first:
+      213: 814126602701195435
+    second: Boy02-Sheet_69
+  - first:
+      213: -6141117632066017143
+    second: Boy02-Sheet_70
+  - first:
+      213: 483123255702319152
+    second: Boy02-Sheet_71
+  - first:
+      213: -5843801637823231332
+    second: Boy02-Sheet_72
+  - first:
+      213: -1499417907703289424
+    second: Boy02-Sheet_73
+  - first:
+      213: -6565323670293862599
+    second: Boy02-Sheet_74
+  - first:
+      213: 774958965578121935
+    second: Boy02-Sheet_75
+  - first:
+      213: -5260740751890510861
+    second: Boy02-Sheet_76
+  - first:
+      213: 5512655578745034867
+    second: Boy02-Sheet_77
+  - first:
+      213: 1159803070421638600
+    second: Boy02-Sheet_78
+  - first:
+      213: -3878532267579443730
+    second: Boy02-Sheet_79
+  - first:
+      213: -6574052105340211731
+    second: Boy02-Sheet_80
+  - first:
+      213: -176738274259294167
+    second: Boy02-Sheet_81
+  - first:
+      213: 1213501948268996611
+    second: Boy02-Sheet_82
+  - first:
+      213: 2611021727518955089
+    second: Boy02-Sheet_83
+  - first:
+      213: -290066371235472038
+    second: Boy02-Sheet_84
+  - first:
+      213: 6776411985091422663
+    second: Boy02-Sheet_85
+  - first:
+      213: 4867537389060537688
+    second: Boy02-Sheet_86
+  - first:
+      213: -7688831360253527444
+    second: Boy02-Sheet_87
+  - first:
+      213: 5993346668912016139
+    second: Boy02-Sheet_88
+  - first:
+      213: -7823312037140706633
+    second: Boy02-Sheet_89
+  - first:
+      213: -3625563023953708886
+    second: Boy02-Sheet_90
+  - first:
+      213: -1147291597925731032
+    second: Boy02-Sheet_91
+  - first:
+      213: -7310356110517719512
+    second: Boy02-Sheet_92
+  - first:
+      213: 4639177058907462192
+    second: Boy02-Sheet_93
+  - first:
+      213: -3189968891809802783
+    second: Boy02-Sheet_94
+  - first:
+      213: 2366318865024534173
+    second: Boy02-Sheet_95
+  - first:
+      213: 4137501560714778809
+    second: Boy02-Sheet_96
+  - first:
+      213: 9040975159434102431
+    second: Boy02-Sheet_97
+  - first:
+      213: -6371008047232811930
+    second: Boy02-Sheet_98
+  - first:
+      213: 8214051953548750904
+    second: Boy02-Sheet_99
+  - first:
+      213: -4351284262766701855
+    second: Boy02-Sheet_100
+  - first:
+      213: 5119686287686709129
+    second: Boy02-Sheet_101
+  - first:
+      213: 1553739802023234826
+    second: Boy02-Sheet_102
+  - first:
+      213: 5654145984605785284
+    second: Boy02-Sheet_103
+  - first:
+      213: -8127056382564539684
+    second: Boy02-Sheet_104
+  - first:
+      213: -6263146999636938301
+    second: Boy02-Sheet_105
+  - first:
+      213: 4344398128787546174
+    second: Boy02-Sheet_106
+  - first:
+      213: -2094304645921188563
+    second: Boy02-Sheet_107
+  - first:
+      213: 4362840902691159964
+    second: Boy02-Sheet_108
+  - first:
+      213: -8038480734211857822
+    second: Boy02-Sheet_109
+  - first:
+      213: 720589570062120709
+    second: Boy02-Sheet_110
+  - first:
+      213: 6686927221924584414
+    second: Boy02-Sheet_111
+  - first:
+      213: 5169507915735561913
+    second: Boy02-Sheet_112
+  - first:
+      213: 1263585525351620254
+    second: Boy02-Sheet_113
+  - first:
+      213: -7457925384130848696
+    second: Boy02-Sheet_114
+  - first:
+      213: 5696616837415150544
+    second: Boy02-Sheet_115
+  - first:
+      213: 6985102322625202322
+    second: Boy02-Sheet_116
+  - first:
+      213: -89042310632282660
+    second: Boy02-Sheet_117
+  - first:
+      213: 5078635107153891357
+    second: Boy02-Sheet_118
+  - first:
+      213: -2583534453435518697
+    second: Boy02-Sheet_119
+  - first:
+      213: 4762596044507100653
+    second: Boy02-Sheet_120
+  - first:
+      213: 8110595506632867766
+    second: Boy02-Sheet_121
+  - first:
+      213: -5527724034086890829
+    second: Boy02-Sheet_122
+  - first:
+      213: -8319341035097367257
+    second: Boy02-Sheet_123
+  - first:
+      213: -4148005098074068779
+    second: Boy02-Sheet_124
+  - first:
+      213: -6796351499434224623
+    second: Boy02-Sheet_125
+  - first:
+      213: 4272300472014565605
+    second: Boy02-Sheet_126
+  - first:
+      213: -5956068227703111640
+    second: Boy02-Sheet_127
+  - first:
+      213: -2607283290455456178
+    second: Boy02-Sheet_128
+  - first:
+      213: 1249691224863510524
+    second: Boy02-Sheet_129
+  - first:
+      213: 9157617476638919303
+    second: Boy02-Sheet_130
+  - first:
+      213: 4272281415741506484
+    second: Boy02-Sheet_131
+  - first:
+      213: 7389307411254560784
+    second: Boy02-Sheet_132
+  - first:
+      213: -5209275100991914044
+    second: Boy02-Sheet_133
+  - first:
+      213: 8210251842707742306
+    second: Boy02-Sheet_134
+  - first:
+      213: -103753996051383212
+    second: Boy02-Sheet_135
+  - first:
+      213: -5009374193091013918
+    second: Boy02-Sheet_136
+  - first:
+      213: -6958348729044511525
+    second: Boy02-Sheet_137
+  - first:
+      213: -3374487098543071266
+    second: Boy02-Sheet_138
+  - first:
+      213: -910578491135463578
+    second: Boy02-Sheet_139
+  - first:
+      213: 5500040974145230550
+    second: Boy02-Sheet_140
+  - first:
+      213: -1414264372099451818
+    second: Boy02-Sheet_141
+  - first:
+      213: 2022613893548092303
+    second: Boy02-Sheet_142
+  - first:
+      213: 651268577354510103
+    second: Boy02-Sheet_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy02-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734631082e18347e0800000000000000
+      internalID: -1782438217697237961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04278f3baf72520800000000000000
+      internalID: 2677384154369376435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbeb2623ec6e090800000000000000
+      internalID: -8005484571804123789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d52dcbd67c25de0800000000000000
+      internalID: -1345794064497091212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96120d229c182e0800000000000000
+      internalID: -2125196397784241710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4949c009b2b6940800000000000000
+      internalID: 5290370084963128564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c329ae119f68720800000000000000
+      internalID: 2848237669703629830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb42f1f167c04960800000000000000
+      internalID: 7584280995976858608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f927876442a3afa0800000000000000
+      internalID: -5790606281189938695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070637de4814af60800000000000000
+      internalID: 8044581561287706371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bb5ad004816370800000000000000
+      internalID: 8314071526300956878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66c6206b4583620800000000000000
+      internalID: 2754044312838498021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87ddaf8f53aff90800000000000000
+      internalID: -6919158534024365885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e005846510bc50800000000000000
+      internalID: 6678861768862785575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2df65940455f8d0800000000000000
+      internalID: -2813250013559270673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca65f23ad04a470800000000000000
+      internalID: 8404857799105227799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37805b88f026b1860800000000000000
+      internalID: 7501697423173290099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy02-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa357e3f857a43c0800000000000000
+      internalID: -4374554829948372225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

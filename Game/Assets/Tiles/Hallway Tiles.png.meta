@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 83b6ceecee670014883fac69a0337d65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7976580860217000386
+    second: Hallway Tiles_0
+  - first:
+      213: -3132092907979735965
+    second: Hallway Tiles_1
+  - first:
+      213: -9097357202559457069
+    second: Hallway Tiles_2
+  - first:
+      213: -6164228524365912982
+    second: Hallway Tiles_3
+  - first:
+      213: -256443709705552820
+    second: Hallway Tiles_4
+  - first:
+      213: -4231966099352310909
+    second: Hallway Tiles_5
+  - first:
+      213: -5213960929354253818
+    second: Hallway Tiles_6
+  - first:
+      213: -6838020811877483342
+    second: Hallway Tiles_7
+  - first:
+      213: 6733247497849982942
+    second: Hallway Tiles_8
+  - first:
+      213: -4495528318838018998
+    second: Hallway Tiles_9
+  - first:
+      213: 1879280037596822294
+    second: Hallway Tiles_10
+  - first:
+      213: 4577271716542313845
+    second: Hallway Tiles_11
+  - first:
+      213: -8003262717478727305
+    second: Hallway Tiles_12
+  - first:
+      213: 1418237661637928198
+    second: Hallway Tiles_13
+  - first:
+      213: 7853019885686745667
+    second: Hallway Tiles_14
+  - first:
+      213: -8905611653558822828
+    second: Hallway Tiles_15
+  - first:
+      213: -583779606202487523
+    second: Hallway Tiles_16
+  - first:
+      213: -2629927942737853728
+    second: Hallway Tiles_17
+  - first:
+      213: -7595865204001896577
+    second: Hallway Tiles_18
+  - first:
+      213: 5372772880100632309
+    second: Hallway Tiles_19
+  - first:
+      213: -6603981040325801873
+    second: Hallway Tiles_20
+  - first:
+      213: 3504266297520232028
+    second: Hallway Tiles_21
+  - first:
+      213: 5354058890414842084
+    second: Hallway Tiles_22
+  - first:
+      213: 8299343549885021704
+    second: Hallway Tiles_23
+  - first:
+      213: 3971334208755077685
+    second: Hallway Tiles_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hallway Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef59828fd7d4190800000000000000
+      internalID: -7976580860217000386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallway Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cf85048129884d0800000000000000
+      internalID: -3132092907979735965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallway Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d82a9af2d1bfb180800000000000000
+      internalID: -9097357202559457069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallway Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e6da01d2447aa0800000000000000
+      internalID: -6164228524365912982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

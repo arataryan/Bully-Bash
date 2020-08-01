@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 179700da075e74e44a39f218872b5da3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6997335926912070842
+    second: BradAttackLeftRight-Sheet_0
+  - first:
+      213: 4662963121057214098
+    second: BradAttackLeftRight-Sheet_1
+  - first:
+      213: 5243743642223909088
+    second: BradAttackLeftRight-Sheet_2
+  - first:
+      213: -7031769596979083389
+    second: BradAttackLeftRight-Sheet_3
+  - first:
+      213: 6642516072039047598
+    second: BradAttackLeftRight-Sheet_4
+  - first:
+      213: -590568402686604015
+    second: BradAttackLeftRight-Sheet_5
+  - first:
+      213: -1462675608789243981
+    second: BradAttackLeftRight-Sheet_6
+  - first:
+      213: 8501377926914574839
+    second: BradAttackLeftRight-Sheet_7
+  - first:
+      213: 4019752306915220083
+    second: BradAttackLeftRight-Sheet_8
+  - first:
+      213: -455622805623368745
+    second: BradAttackLeftRight-Sheet_9
+  - first:
+      213: 7946533237936354083
+    second: BradAttackLeftRight-Sheet_10
+  - first:
+      213: 6922609085832711700
+    second: BradAttackLeftRight-Sheet_11
+  - first:
+      213: -7615415395836150769
+    second: BradAttackLeftRight-Sheet_12
+  - first:
+      213: 5917886263388223467
+    second: BradAttackLeftRight-Sheet_13
+  - first:
+      213: 1962173632383774205
+    second: BradAttackLeftRight-Sheet_14
+  - first:
+      213: -5398134189060239788
+    second: BradAttackLeftRight-Sheet_15
+  - first:
+      213: 5695919058731510027
+    second: BradAttackLeftRight-Sheet_16
+  - first:
+      213: -5891272088505265920
+    second: BradAttackLeftRight-Sheet_17
+  - first:
+      213: 5796146933521482300
+    second: BradAttackLeftRight-Sheet_18
+  - first:
+      213: 7815200455857384494
+    second: BradAttackLeftRight-Sheet_19
+  - first:
+      213: -5893005296066063129
+    second: BradAttackLeftRight-Sheet_20
+  - first:
+      213: 2741978992048673672
+    second: BradAttackLeftRight-Sheet_21
+  - first:
+      213: 8760224919684454042
+    second: BradAttackLeftRight-Sheet_22
+  - first:
+      213: -611298637196307176
+    second: BradAttackLeftRight-Sheet_23
+  - first:
+      213: 2223472385271932730
+    second: BradAttackLeftRight-Sheet_24
+  - first:
+      213: 2179193094600241956
+    second: BradAttackLeftRight-Sheet_25
+  - first:
+      213: 1824411839388640073
+    second: BradAttackLeftRight-Sheet_26
+  - first:
+      213: -221289002096715704
+    second: BradAttackLeftRight-Sheet_27
+  - first:
+      213: 836450885598120663
+    second: BradAttackLeftRight-Sheet_28
+  - first:
+      213: -7424153196087218695
+    second: BradAttackLeftRight-Sheet_29
+  - first:
+      213: -6310417454789612965
+    second: BradAttackLeftRight-Sheet_30
+  - first:
+      213: 1864357236792511506
+    second: BradAttackLeftRight-Sheet_31
+  - first:
+      213: 2164004586001197738
+    second: BradAttackLeftRight-Sheet_32
+  - first:
+      213: -5512850709110225721
+    second: BradAttackLeftRight-Sheet_33
+  - first:
+      213: -3213467942079404797
+    second: BradAttackLeftRight-Sheet_34
+  - first:
+      213: -5091739178567710158
+    second: BradAttackLeftRight-Sheet_35
+  - first:
+      213: -6165093499863097209
+    second: BradAttackLeftRight-Sheet_36
+  - first:
+      213: 4460817270459923787
+    second: BradAttackLeftRight-Sheet_37
+  - first:
+      213: -1555653642597259717
+    second: BradAttackLeftRight-Sheet_38
+  - first:
+      213: -780052212098340111
+    second: BradAttackLeftRight-Sheet_39
+  - first:
+      213: 5429346530043592532
+    second: BradAttackLeftRight-Sheet_40
+  - first:
+      213: -3152476900757706150
+    second: BradAttackLeftRight-Sheet_41
+  - first:
+      213: 164034174854744777
+    second: BradAttackLeftRight-Sheet_42
+  - first:
+      213: -9154978192448237288
+    second: BradAttackLeftRight-Sheet_43
+  - first:
+      213: -1864143797045489692
+    second: BradAttackLeftRight-Sheet_44
+  - first:
+      213: -3613675338450994494
+    second: BradAttackLeftRight-Sheet_45
+  - first:
+      213: 392549571373040325
+    second: BradAttackLeftRight-Sheet_46
+  - first:
+      213: 5687102962289834506
+    second: BradAttackLeftRight-Sheet_47
+  - first:
+      213: -958092855965309483
+    second: BradAttackLeftRight-Sheet_48
+  - first:
+      213: 6345587568454705363
+    second: BradAttackLeftRight-Sheet_49
+  - first:
+      213: -8499624424763960211
+    second: BradAttackLeftRight-Sheet_50
+  - first:
+      213: 7839914404871930433
+    second: BradAttackLeftRight-Sheet_51
+  - first:
+      213: 7928616918924937188
+    second: BradAttackLeftRight-Sheet_52
+  - first:
+      213: 1086150029018513023
+    second: BradAttackLeftRight-Sheet_53
+  - first:
+      213: 587908454389170622
+    second: BradAttackLeftRight-Sheet_54
+  - first:
+      213: -5219463406805890894
+    second: BradAttackLeftRight-Sheet_55
+  - first:
+      213: 6653622812584876071
+    second: BradAttackLeftRight-Sheet_56
+  - first:
+      213: -645291761744666599
+    second: BradAttackLeftRight-Sheet_57
+  - first:
+      213: 6020255998170125401
+    second: BradAttackLeftRight-Sheet_58
+  - first:
+      213: 3581331579948753367
+    second: BradAttackLeftRight-Sheet_59
+  - first:
+      213: -5065746072905092000
+    second: BradAttackLeftRight-Sheet_60
+  - first:
+      213: -2809754178646895397
+    second: BradAttackLeftRight-Sheet_61
+  - first:
+      213: 779067826724566645
+    second: BradAttackLeftRight-Sheet_62
+  - first:
+      213: 4304197581425653670
+    second: BradAttackLeftRight-Sheet_63
+  - first:
+      213: 6422667312613949934
+    second: BradAttackLeftRight-Sheet_64
+  - first:
+      213: 3882372676907659596
+    second: BradAttackLeftRight-Sheet_65
+  - first:
+      213: 4755828191021553357
+    second: BradAttackLeftRight-Sheet_66
+  - first:
+      213: 7066142604405166994
+    second: BradAttackLeftRight-Sheet_67
+  - first:
+      213: 1356146011234632973
+    second: BradAttackLeftRight-Sheet_68
+  - first:
+      213: -991310205249381338
+    second: BradAttackLeftRight-Sheet_69
+  - first:
+      213: -6513347894844818741
+    second: BradAttackLeftRight-Sheet_70
+  - first:
+      213: 359969866660782967
+    second: BradAttackLeftRight-Sheet_71
+  - first:
+      213: 4897662312517245967
+    second: BradAttackLeftRight-Sheet_72
+  - first:
+      213: -259611585982514345
+    second: BradAttackLeftRight-Sheet_73
+  - first:
+      213: 3386037620465938865
+    second: BradAttackLeftRight-Sheet_74
+  - first:
+      213: -4230576120491052810
+    second: BradAttackLeftRight-Sheet_75
+  - first:
+      213: 1578003388853646149
+    second: BradAttackLeftRight-Sheet_76
+  - first:
+      213: 3505525712989516157
+    second: BradAttackLeftRight-Sheet_77
+  - first:
+      213: 4845675195223543918
+    second: BradAttackLeftRight-Sheet_78
+  - first:
+      213: -4061835586704529997
+    second: BradAttackLeftRight-Sheet_79
+  - first:
+      213: 2846128643982511994
+    second: BradAttackLeftRight-Sheet_80
+  - first:
+      213: -4788404865551984091
+    second: BradAttackLeftRight-Sheet_81
+  - first:
+      213: -311935608178957272
+    second: BradAttackLeftRight-Sheet_82
+  - first:
+      213: -3528913846215488223
+    second: BradAttackLeftRight-Sheet_83
+  - first:
+      213: 2465516181715369461
+    second: BradAttackLeftRight-Sheet_84
+  - first:
+      213: 2495952814902641501
+    second: BradAttackLeftRight-Sheet_85
+  - first:
+      213: -2470715097341050041
+    second: BradAttackLeftRight-Sheet_86
+  - first:
+      213: -7641713132116582372
+    second: BradAttackLeftRight-Sheet_87
+  - first:
+      213: 4142701700144461685
+    second: BradAttackLeftRight-Sheet_88
+  - first:
+      213: 2816112229833731142
+    second: BradAttackLeftRight-Sheet_89
+  - first:
+      213: 4989862648891110863
+    second: BradAttackLeftRight-Sheet_90
+  - first:
+      213: -3021558194890484920
+    second: BradAttackLeftRight-Sheet_91
+  - first:
+      213: -899541187499596205
+    second: BradAttackLeftRight-Sheet_92
+  - first:
+      213: 7648263391518843680
+    second: BradAttackLeftRight-Sheet_93
+  - first:
+      213: 1287266704882870016
+    second: BradAttackLeftRight-Sheet_94
+  - first:
+      213: 9085508877825639229
+    second: BradAttackLeftRight-Sheet_95
+  - first:
+      213: 3608825113754050016
+    second: BradAttackLeftRight-Sheet_96
+  - first:
+      213: 6827716051391485100
+    second: BradAttackLeftRight-Sheet_97
+  - first:
+      213: 8868346068326359844
+    second: BradAttackLeftRight-Sheet_98
+  - first:
+      213: -1257746674844162969
+    second: BradAttackLeftRight-Sheet_99
+  - first:
+      213: 5511917183948568303
+    second: BradAttackLeftRight-Sheet_100
+  - first:
+      213: 8261523432891909802
+    second: BradAttackLeftRight-Sheet_101
+  - first:
+      213: -7656854822799434284
+    second: BradAttackLeftRight-Sheet_102
+  - first:
+      213: -1640836693858499064
+    second: BradAttackLeftRight-Sheet_103
+  - first:
+      213: -7787609872803644667
+    second: BradAttackLeftRight-Sheet_104
+  - first:
+      213: -1035794987642366255
+    second: BradAttackLeftRight-Sheet_105
+  - first:
+      213: -3533364585797873146
+    second: BradAttackLeftRight-Sheet_106
+  - first:
+      213: 8879505553737345059
+    second: BradAttackLeftRight-Sheet_107
+  - first:
+      213: 8827674588128978278
+    second: BradAttackLeftRight-Sheet_108
+  - first:
+      213: -2247445226440945463
+    second: BradAttackLeftRight-Sheet_109
+  - first:
+      213: 2166176715140856414
+    second: BradAttackLeftRight-Sheet_110
+  - first:
+      213: 4233936673041877975
+    second: BradAttackLeftRight-Sheet_111
+  - first:
+      213: -497679743929320572
+    second: BradAttackLeftRight-Sheet_112
+  - first:
+      213: -5049297007343393966
+    second: BradAttackLeftRight-Sheet_113
+  - first:
+      213: 167055191997361171
+    second: BradAttackLeftRight-Sheet_114
+  - first:
+      213: 2220313787118669604
+    second: BradAttackLeftRight-Sheet_115
+  - first:
+      213: 9050546763798193665
+    second: BradAttackLeftRight-Sheet_116
+  - first:
+      213: -5982847108413660477
+    second: BradAttackLeftRight-Sheet_117
+  - first:
+      213: 9059439709508017636
+    second: BradAttackLeftRight-Sheet_118
+  - first:
+      213: 6787775903994191533
+    second: BradAttackLeftRight-Sheet_119
+  - first:
+      213: -8297396017217536784
+    second: BradAttackLeftRight-Sheet_120
+  - first:
+      213: -5878873797405843475
+    second: BradAttackLeftRight-Sheet_121
+  - first:
+      213: 7316405986514090
+    second: BradAttackLeftRight-Sheet_122
+  - first:
+      213: 7768803080553983749
+    second: BradAttackLeftRight-Sheet_123
+  - first:
+      213: 4639777145611820826
+    second: BradAttackLeftRight-Sheet_124
+  - first:
+      213: -7224448472377745740
+    second: BradAttackLeftRight-Sheet_125
+  - first:
+      213: 1680255598759929566
+    second: BradAttackLeftRight-Sheet_126
+  - first:
+      213: -4325978106184174635
+    second: BradAttackLeftRight-Sheet_127
+  - first:
+      213: 2564685583961778989
+    second: BradAttackLeftRight-Sheet_128
+  - first:
+      213: -8965429686145649641
+    second: BradAttackLeftRight-Sheet_129
+  - first:
+      213: -5145189986597799754
+    second: BradAttackLeftRight-Sheet_130
+  - first:
+      213: -4361711881238463631
+    second: BradAttackLeftRight-Sheet_131
+  - first:
+      213: -965685804340205333
+    second: BradAttackLeftRight-Sheet_132
+  - first:
+      213: -5052710270893066740
+    second: BradAttackLeftRight-Sheet_133
+  - first:
+      213: 1981572553160569900
+    second: BradAttackLeftRight-Sheet_134
+  - first:
+      213: 4884779580142019205
+    second: BradAttackLeftRight-Sheet_135
+  - first:
+      213: -7834661304877538727
+    second: BradAttackLeftRight-Sheet_136
+  - first:
+      213: -6759645976863965682
+    second: BradAttackLeftRight-Sheet_137
+  - first:
+      213: -5182076507430291279
+    second: BradAttackLeftRight-Sheet_138
+  - first:
+      213: 7355028999835362065
+    second: BradAttackLeftRight-Sheet_139
+  - first:
+      213: -2450392653469457194
+    second: BradAttackLeftRight-Sheet_140
+  - first:
+      213: 2631077290703481258
+    second: BradAttackLeftRight-Sheet_141
+  - first:
+      213: -5963964783321751523
+    second: BradAttackLeftRight-Sheet_142
+  - first:
+      213: -365843906331158776
+    second: BradAttackLeftRight-Sheet_143
+  - first:
+      213: 1655006615725593956
+    second: BradAttackLeftRight-Sheet_144
+  - first:
+      213: 6495347048250692262
+    second: BradAttackLeftRight-Sheet_145
+  - first:
+      213: -4357315990273527904
+    second: BradAttackLeftRight-Sheet_146
+  - first:
+      213: 7022827475723950202
+    second: BradAttackLeftRight-Sheet_147
+  - first:
+      213: -2765329579909671128
+    second: BradAttackLeftRight-Sheet_148
+  - first:
+      213: -2893548009861296811
+    second: BradAttackLeftRight-Sheet_149
+  - first:
+      213: -2341443543189893726
+    second: BradAttackLeftRight-Sheet_150
+  - first:
+      213: -6919769666820839765
+    second: BradAttackLeftRight-Sheet_151
+  - first:
+      213: 7853027940502711549
+    second: BradAttackLeftRight-Sheet_152
+  - first:
+      213: 6397605865389234408
+    second: BradAttackLeftRight-Sheet_153
+  - first:
+      213: -6624740319259796549
+    second: BradAttackLeftRight-Sheet_154
+  - first:
+      213: -4678218330449675538
+    second: BradAttackLeftRight-Sheet_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43ca9b3f78b1160800000000000000
+      internalID: 6997335926912070842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eac5fc04c26b040800000000000000
+      internalID: 4662963121057214098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e818ff5f0585c840800000000000000
+      internalID: 5243743642223909088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878ba5bec22a6e90800000000000000
+      internalID: -7031769596979083389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e5b88c25fe2c50800000000000000
+      internalID: 6642516072039047598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8b4eaa21edc7f0800000000000000
+      internalID: -590568402686604015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72d7c884883bbe0800000000000000
+      internalID: -1462675608789243981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9071bae26faf570800000000000000
+      internalID: 8501377926914574839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a1db2fc6709c730800000000000000
+      internalID: 4019752306915220083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d39047e87d4da9f0800000000000000
+      internalID: -455622805623368745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f70b90e1c74e60800000000000000
+      internalID: 7946533237936354083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e43f7394c021060800000000000000
+      internalID: 6922609085832711700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BradAttackLeftRight-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3522bb0c905690800000000000000
+      internalID: -7615415395836150769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

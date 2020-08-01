@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 021146bb4839c6243baf39ce34006d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7607640244999181117
+    second: Boy03-Sheet_0
+  - first:
+      213: 1569931880155197676
+    second: Boy03-Sheet_1
+  - first:
+      213: -3029535563029247281
+    second: Boy03-Sheet_2
+  - first:
+      213: 2130780652130809844
+    second: Boy03-Sheet_3
+  - first:
+      213: -3308573026288293280
+    second: Boy03-Sheet_4
+  - first:
+      213: -16660089691305790
+    second: Boy03-Sheet_5
+  - first:
+      213: -2200343720667957029
+    second: Boy03-Sheet_6
+  - first:
+      213: 1053950724486481561
+    second: Boy03-Sheet_7
+  - first:
+      213: -6449623949983009229
+    second: Boy03-Sheet_8
+  - first:
+      213: 8641009845313338651
+    second: Boy03-Sheet_9
+  - first:
+      213: -5045754466113949500
+    second: Boy03-Sheet_10
+  - first:
+      213: 7779961143614985105
+    second: Boy03-Sheet_11
+  - first:
+      213: -4090734663914740966
+    second: Boy03-Sheet_12
+  - first:
+      213: -3988360391661598609
+    second: Boy03-Sheet_13
+  - first:
+      213: 9127438761810568091
+    second: Boy03-Sheet_14
+  - first:
+      213: -5823364727356822549
+    second: Boy03-Sheet_15
+  - first:
+      213: -8190756307447230775
+    second: Boy03-Sheet_16
+  - first:
+      213: 6485370487609422894
+    second: Boy03-Sheet_17
+  - first:
+      213: -5437269358141488927
+    second: Boy03-Sheet_18
+  - first:
+      213: -2355628836721010829
+    second: Boy03-Sheet_19
+  - first:
+      213: 890617498683643815
+    second: Boy03-Sheet_20
+  - first:
+      213: 3436077593363904553
+    second: Boy03-Sheet_21
+  - first:
+      213: 4856066343698261884
+    second: Boy03-Sheet_22
+  - first:
+      213: -2770596661209099043
+    second: Boy03-Sheet_23
+  - first:
+      213: -4523967628370162050
+    second: Boy03-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy03-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 68
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccabd1118b3c6690800000000000000
+      internalID: -7607640244999181117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce036362ab489c510800000000000000
+      internalID: 1569931880155197676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 41
+        width: 93
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8a33e47de4f5d0800000000000000
+      internalID: -3029535563029247281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 41
+        width: 93
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73888b6bd029d10800000000000000
+      internalID: 2130780652130809844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 43
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa5a6bc569512d0800000000000000
+      internalID: -3308573026288293280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 43
+        width: 115
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c806089cbfc4cff0800000000000000
+      internalID: -16660089691305790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 46
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd833d14b0fc671e0800000000000000
+      internalID: -2200343720667957029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 46
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99648cf899260ae00800000000000000
+      internalID: 1053950724486481561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 46
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336396660355e76a0800000000000000
+      internalID: -6449623949983009229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 46
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfd8a1ca80be770800000000000000
+      internalID: 8641009845313338651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 46
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ff6feb01e9f9b0800000000000000
+      internalID: -5045754466113949500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 46
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193538ba079f7fb60800000000000000
+      internalID: 7779961143614985105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 43
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a132cfe2f7aca37c0800000000000000
+      internalID: -4090734663914740966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 43
+        width: 115
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c5c2ea5f76a8c0800000000000000
+      internalID: -3988360391661598609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 41
+        width: 92
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a9d2d13d2bae70800000000000000
+      internalID: 9127438761810568091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 41
+        width: 92
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb6b5c42a04f2fa0800000000000000
+      internalID: -5823364727356822549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce41dce886945e80800000000000000
+      internalID: -8190756307447230775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 44
+        width: 68
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f2c6f81aa00a50800000000000000
+      internalID: 6485370487609422894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 44
+        width: 68
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e04cdf9350fa84b0800000000000000
+      internalID: -5437269358141488927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d39cbd002f4fd0800000000000000
+      internalID: -2355628836721010829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a719c775eb1c5c00800000000000000
+      internalID: 890617498683643815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287225bd566faf20800000000000000
+      internalID: 3436077593363904553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 44
+        width: 68
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c776ddd6c96346340800000000000000
+      internalID: 4856066343698261884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 44
+        width: 67
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49fb0140ddc89d0800000000000000
+      internalID: -2770596661209099043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy03-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 44
+        width: 68
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e41a73963a731c0800000000000000
+      internalID: -4523967628370162050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
